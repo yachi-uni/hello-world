@@ -1,3 +1,10 @@
+---
+layout : page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+# ソフトウェア工学 2025
+
 # 第1回:ガイダンス
 ## 以下の理由からソフトウェア工学が難しいと言われている。
 - 実務から**体系化された**知見であるから
