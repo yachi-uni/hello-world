@@ -215,3 +215,38 @@ vscodeのデフォルトツール
 ###### 作業を枝分かれさせられる
 
 ###### →共同・並行作業が可能
+
+第10回:gitコマンド
+快適なgit操作のためにさまざまなコマンドが用意されている
+
+gitコマンド（設定・確認系）
+git init gitの初期化・設定開始
+git status ワークツリーのステータスを表示
+git config 設定まわりの確認・変更
+git log ログを表示
+git diff ファイルの差分を表示
+
+gitコマンド（コミット系）
+git add ステージングエリアに追加
+git commit コミットの実行
+
+gitコマンド（修正系）
+git commit --amend コミットの修正
+git checkout 削除されたファイルの復旧や過去コミットの復元
+git reset コミットのリセット
+git revert 「コミットの変更を打ち消す」ためのコミット
+git rm ファイルとインデックス情報の削除
+
+gitコマンド（リモート系）
+git clone レポジトリをコピー
+git pull リモートレポジトリの同期
+git push 変更をアップロードする
+git request-pull プルリクエスト
+git remote リモートレポジトリの設定
+
+gitコマンド（ブランチ系）
+git branch ブランチの作成
+git checkout ブランチの切り替え
+git merge ブランチの統合
+git clone レポジトリをコピー
+git push 変更をアップロードする
