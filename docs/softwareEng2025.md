@@ -302,14 +302,14 @@ vscodeのデフォルトツール
 
 XMLやJSONと比べてシンプルで読みやすい構文！
 
-第13回:CI/CDの実践
-CI/CDを実際に利用したプロジェクトの作成に取り組んだ
+# 第13回:CI/CDの実践
+#### CI/CDを実際に利用したプロジェクトの作成に取り組んだ
 
-使用した技術
-Github Pages
-Githubにあるリモートレポジトリの内容をwebpageとして公開できる
-HPの更改はCI/CDにより自動化する
+## 使用した技術
+### Github Pages
+- Githubにあるリモートレポジトリの内容をwebpageとして公開できる
+- HPの更改は**CI/CD**により自動化する
 
-Jekyll
-これを設定するとmarkdownファイルを自動でhtml化することができる
+### Jekyll
+- これを設定するとmarkdownファイルを**自動**でhtml化することができる
 
